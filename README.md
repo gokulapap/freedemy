@@ -1,5 +1,5 @@
 # Freedemy
-Paid Udemy Courses with Coupons 
+Paid Udemy Courses with Coupons scraper script
 
 # Steps to run
 
