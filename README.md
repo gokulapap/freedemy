@@ -1,7 +1,7 @@
 |--|--|
-hello | world
-world | hello
-
+hello | world | 
+world | hello |
+|--|--|
 
 # Freedemy
 Paid Udemy Courses with Coupons scraper script
